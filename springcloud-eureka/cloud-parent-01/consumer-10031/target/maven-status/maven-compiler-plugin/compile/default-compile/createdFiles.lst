@@ -1,0 +1,4 @@
+com\tom\cloud\config\ConfigBean.class
+com\tom\cloud\controller\UserController.class
+com\tom\cloud\entities\User.class
+com\tom\cloud\ConsumerApplication10031.class
